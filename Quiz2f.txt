@@ -1,0 +1,24 @@
+Gundaya, Lovely E.
+
+CPE 421
+
+
+Quiz 2
+
+
+
+Why does the computer system did not function?
+
+
+
+We found out that the fuse inside the PSU has blown. For this reason, the power supply did not function which causes us the inability to check the other parts of the computer system.
+
+
+
+Possible solutions are:
+
+
+
+1. Replace the fuse of the power supply.
+
+2. Replace the power supply.

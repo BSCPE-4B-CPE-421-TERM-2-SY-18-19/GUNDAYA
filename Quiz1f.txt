@@ -1,0 +1,17 @@
+Gundaya, Lovely E.
+
+CPE 421
+
+
+
+
+Quiz 1
+
+
+
+Why does the Raspberry Pi functioning?
+
+
+
+The Raspberry Pi microcomputer is functioning because an operating system is installed- which is highly needed to make it functional. Also, the computer system is properly connected to the power source. As an indication of a well-functioning Raspberry Pi microcomputer, two Light Emitting Diodes are mounted on its board. A blinking green LED is for the operating system and a red LED for the power supply. As we run the system, the two LEDs functioned well. Thus, the microcomputer is in good condition.
+
